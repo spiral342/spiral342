@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Angel Alvarez
 
-<!--
-**spiral342/spiral342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support Specialist** | B.A. Computer Technology (Homeland Security Track), CSU Dominguez Hills — May 2027
 
-Here are some ideas to get you started:
+I'm pivoting into IT support and systems, with hands-on experience from two years of end-user IT support for a print business and a self-hosted homelab I built from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+**Self-Hosted Homelab (Senior Project)** — Jellyfin + Navidrome media services on a custom domain. Remote access evolved from port forwarding → Tailscale → Cloudflare Tunnel. Fully self-taught, with setup/recovery documentation.
+
+**print-shop-pwa** — Offline-capable Progressive Web App order tracker: Kanban board (placed → design → approval → printing → pickup → completed), IndexedDB + LocalStorage, service worker, auto-sync. Personal prototype.
+
+## Skills
+
+TCP/IP · DNS · NAT/port forwarding · Cloudflare Tunnel · Tailscale · PC building · Windows & macOS support · Python · Java · JavaScript · Git
+
+## Reach me
+
+- a342.alvarez@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/angel-alvarez-32915a18b/)
+
+Open to IT support, help desk, and desktop support roles. Fluent in Spanish.
